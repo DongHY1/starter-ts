@@ -8,6 +8,5 @@ module.exports = {
     jsxBracketSameLine: true,
     trailingComma: 'none',
     bracketSpacing: true,
-    plugins: ['prettier-plugin-tailwindcss']
 }
 

@@ -1,15 +1,10 @@
-# My-FrontEnd-StartUp
+# Starter-TS
 
 ## Stack
 
-+ 🚀 Framework: React + React Router + TypeScript
-+ 🛠️ Build Tool: Vite
-+ 🧬 State Management: Jotai
-+ 🌐 Data Fetching: React Query + Axios
-+ 🎨 CSS Framework: TailwindCSS + shadcn/ui
-+ 🐳 Containerization: Docker
++ 🛠️ Build Tool: tsup
++ 🌐 Test Tool: Vitest
 
 ## How to use
-+ Replace `my_app` in Docker
-+ Replace project name in package.json
-+ `pnpm install` and `pnpm run dev`
++ Replace project name and author name in package.json
++ `pnpm install` and `pnpm run test` and `pnpm run build`
